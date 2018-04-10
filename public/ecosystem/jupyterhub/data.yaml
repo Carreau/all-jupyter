@@ -1,2 +1,6 @@
-name: jupyterhub
+name: JupyterHub
 tags: multiple users, authentication, OAuth, kubernetes
+description: >
+  Jupyter is the canonical solution for deployment of multi-tenant
+  Jupyter deployment. JupyterHub can also host many other applications.
+

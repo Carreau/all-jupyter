@@ -85,8 +85,9 @@ export var data = [
     "path": "jupyter_client"
   },
   {
-    "name": "jupyterhub",
+    "name": "JupyterHub",
     "tags": "multiple users, authentication, OAuth, kubernetes",
+    "description": "Jupyter is the canonical solution for deployment of multi-tenant Jupyter deployment. JupyterHub can also host many other applications.\n",
     "path": "jupyterhub"
   },
   {
@@ -113,6 +114,8 @@ export var data = [
   {
     "name": "nbgrader",
     "tags": "education",
+    "description": "NbGrader provide tools to write, edit, distribute and grade assignments in the classroom context.\n",
+    "url": "https://github.com/jupyter/nbgrader",
     "path": "nbgrader"
   },
   {
