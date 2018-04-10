@@ -12,6 +12,7 @@ export var data = [
   },
   {
     "commercial": true,
+    "hidden": true,
     "description": "Ex Sage Math Cloud, Cocalc offershosting of Jupyter notebook in the cloud and provide features unique to the Sage environement.\n",
     "name": "CoCalc",
     "sponsored": 0,
