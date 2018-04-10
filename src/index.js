@@ -71,7 +71,7 @@ class Board extends React.Component {
                   <img src={"/ecosystem/"+item.path+'/logo.'+item.logo} alt="" className="logos"></img>
                  </div>
                  <div className="col m10">
-                  <a href={item.url} className="secondary-content"><i className="material-icons">link</i></a>
+                  <a href={item.url} className="secondary-content waves-effect waves-light btn">View</a>
                   <a href={item.url} className="secondary-content">{item.license}</a>
                   <a href={item.url} className="secondary-content">{item.category}</a>
                   <h3 className="title">{item.name}</h3>

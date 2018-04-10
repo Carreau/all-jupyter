@@ -24,7 +24,8 @@ export var data = [
     "description": "Hydrogen offers Jupyter integration with Atom\n  and runcode interactively\n",
     "name": "Hydrogen",
     "url": "https://nteract.io/atom",
-    "path": "Hydrogen"
+    "path": "Hydrogen",
+    "logo": "svg"
   },
   {
     "commercial": false,
