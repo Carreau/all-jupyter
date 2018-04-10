@@ -1,0 +1,4 @@
+description: Plugin for Visual Studio Code.
+name: VSCode Jupyter
+hidden: true
+url: https://marketplace.visualstudio.com/items?itemName=donjayamanne.jupyter

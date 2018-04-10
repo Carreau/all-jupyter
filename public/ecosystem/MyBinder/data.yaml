@@ -1,0 +1,6 @@
+commercial: false
+description: "MyBinder.org is a free service the provide ephemeral computing in the\
+  \ cloud and turn any git repository into a temporary jupyter notebook instance in\
+  \ the cloud. \n"
+name: MyBinder
+url: https://mybinder.org

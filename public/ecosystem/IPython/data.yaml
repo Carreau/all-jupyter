@@ -1,0 +1,9 @@
+commercial: false
+description: 'The reference Kernel implementation for Jupyter; written in Python,
+  provide all the features of the Command Line IPython shell, and more.
+
+  '
+featured: 0
+license: BSD
+name: IPython
+url: https://ipython.org

@@ -1,0 +1,6 @@
+commercial: true
+hidden: true
+description: 'Jupyter notebook hosted on Azure cloud.'
+name: Azure Notebooks
+tags: microsoft, azure
+url: https://notebooks.azure.com

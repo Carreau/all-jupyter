@@ -1,0 +1,8 @@
+commercial: false
+description: 'IJulia allow you to access the Julia programming language from any Jupyter
+  conmpatible frontend.
+
+  '
+license: MIT
+name: IJulia
+url: https://github.com/JuliaLang/IJulia.jl

@@ -1,0 +1,4 @@
+description: Diff and Merge of notebooks.
+name: nbdime
+tags: git, github, simula, MinRk
+url: https://github.com/jupyter/nbdime

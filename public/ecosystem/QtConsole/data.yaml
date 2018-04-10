@@ -1,0 +1,6 @@
+name: QtConsole
+hidden: true
+description: > 
+  The QtConsole is one the first Jupyter remote client written and is based on
+  the Qt Framework, it offers an experience similar to a terminal but with
+  inline images.

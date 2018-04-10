@@ -1,0 +1,9 @@
+commercial: false
+description: '
+
+  IHaskell provide a haskell kernel with extra interactivity features to make full
+  usage of the notebook features.
+
+  '
+name: IHaskell
+url: https://github.com/gibiansky/IHaskell
