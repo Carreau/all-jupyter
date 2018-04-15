@@ -1,0 +1,4 @@
+description: This is an F# kernel for Jupyter
+license: BSD
+name: IFSharp
+url: https://github.com/fsprojects/IfSharp

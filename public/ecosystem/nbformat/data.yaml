@@ -1,0 +1,3 @@
+name: NbFormat
+url: http://nbformat.readthedocs.io/
+description: Utility to read, write and validate `.ipynb` files.

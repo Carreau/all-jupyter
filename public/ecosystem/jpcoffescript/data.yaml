@@ -1,0 +1,4 @@
+description: A CoffeeScript Kernel for the Jupyter Notebook
+license: BSD
+name: jp-CoffeeScript
+url: https://github.com/n-riesco/jp-coffeescript

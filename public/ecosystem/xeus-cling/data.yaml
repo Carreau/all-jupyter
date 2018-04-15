@@ -1,0 +1,6 @@
+name: Xeus-Cling
+url: https://github.com/QuantStack/xeus-cling
+description: >
+  A C++ kernel for Jupyter. Ever dreamed of running interactive C++ with the
+  ability to display images, play sounds and have interactive widgets ?
+  Xeus-cling is for you

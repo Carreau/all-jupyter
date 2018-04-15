@@ -1,0 +1,4 @@
+description: A Jupyter kernel for PARI/GP.
+license: GPLv3
+name: Pari GP
+url: https://github.com/jdemeyer/pari_jupyter

@@ -1,0 +1,8 @@
+commercial: false
+description: > 
+    A Ruby kernel for Jupyter.
+featured: 0
+license: MIT
+name: IRuby
+url: https://github.com/SciRuby/iruby
+

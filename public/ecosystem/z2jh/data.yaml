@@ -1,0 +1,6 @@
+name: Zero to Jupyterhub
+description: >
+  Guide on how to deploy JupyterHub in the cloud using Kubernetes and Helm
+  chart. If you want to deploy you own Jupyter notebook in the cloud, this is
+  the resource to follow and contribute to.
+url: https://zero-to-jupyterhub.readthedocs.io/

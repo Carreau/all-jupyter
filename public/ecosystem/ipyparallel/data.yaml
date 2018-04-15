@@ -1,0 +1,5 @@
+name: ipyparallel
+description: >
+  Interactive Parallel computing with IPython at your fingertips.
+url: https://ipyparallel.readthedocs.io
+

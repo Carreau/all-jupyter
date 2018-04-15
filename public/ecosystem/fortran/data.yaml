@@ -1,0 +1,7 @@
+commercial: false
+description: > 
+    A Coarray Fortran kernel for Jupyter.
+featured: 0
+license: MIT
+name: Coarray-Fortran
+url: https://github.com/sourceryinstitute/jupyter-CAF-kernel/

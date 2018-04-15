@@ -1,0 +1,7 @@
+commercial: false
+description: > 
+    A Go kernel for Jupyter.
+featured: 0
+license: GPLv3
+name: Gophernotes
+url: https://github.com/gopherdata/gophernotes

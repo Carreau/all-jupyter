@@ -1,0 +1,7 @@
+description: ICSharp is an C# language kernel for Jupyter. It allows users to use
+  Jupyter's Notebook frontend, except where Jupyter executes python code, ICSharp
+  can execute C# code. It is based on Roslyn REPL engine of scriptcs., so all the
+  goodies of scriptcs comes along with it.
+license: ApacheV2
+name: ICSharp
+url: https://github.com/zabirauf/icsharp

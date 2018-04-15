@@ -1,0 +1,5 @@
+name: ipywidgets
+descrition: >
+  The Reference implementation for the Jupyter widgets using Python. Spice your
+  code with interactive graph and UI elements in a couple of lines 
+url: https://github.com/jupyter-widgets/ipywidgets/

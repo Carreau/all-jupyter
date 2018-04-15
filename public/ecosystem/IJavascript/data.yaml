@@ -1,0 +1,4 @@
+description: A nodejs-javascript kernel for Jupyter
+license: "BSD"
+name: IJavascript
+url: https://github.com/n-riesco/ijavascript

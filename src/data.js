@@ -21,11 +21,47 @@ export var data = [
     "logo": "png"
   },
   {
+    "commercial": false,
+    "description": "A Coarray Fortran kernel for Jupyter.\n",
+    "featured": 0,
+    "license": "MIT",
+    "name": "Coarray-Fortran",
+    "url": "https://github.com/sourceryinstitute/jupyter-CAF-kernel/",
+    "path": "fortran",
+    "logo": "png"
+  },
+  {
+    "commercial": false,
+    "description": "A Go kernel for Jupyter.\n",
+    "featured": 0,
+    "license": "GPLv3",
+    "name": "Gophernotes",
+    "url": "https://github.com/gopherdata/gophernotes",
+    "path": "gophernotes",
+    "logo": "png"
+  },
+  {
     "description": "Hydrogen offers Jupyter integration with Atom\n  and runcode interactively\n",
     "name": "Hydrogen",
     "url": "https://nteract.io/atom",
     "path": "Hydrogen",
     "logo": "svg"
+  },
+  {
+    "description": "ICSharp is an C# language kernel for Jupyter. It allows users to use Jupyter's Notebook frontend, except where Jupyter executes python code, ICSharp can execute C# code. It is based on Roslyn REPL engine of scriptcs., so all the goodies of scriptcs comes along with it.",
+    "license": "ApacheV2",
+    "name": "ICSharp",
+    "url": "https://github.com/zabirauf/icsharp",
+    "path": "icsharp",
+    "logo": "png"
+  },
+  {
+    "description": "This is an F# kernel for Jupyter",
+    "license": "BSD",
+    "name": "IFSharp",
+    "url": "https://github.com/fsprojects/IfSharp",
+    "path": "IFSharp",
+    "logo": "png"
   },
   {
     "commercial": false,
@@ -36,6 +72,14 @@ export var data = [
     "logo": "svg"
   },
   {
+    "description": "A nodejs-javascript kernel for Jupyter",
+    "license": "BSD",
+    "name": "IJavascript",
+    "url": "https://github.com/n-riesco/ijavascript",
+    "path": "IJavascript",
+    "logo": "png"
+  },
+  {
     "commercial": false,
     "description": "IJulia allow you to access the Julia programming language from any Jupyter conmpatible frontend.\n",
     "license": "MIT",
@@ -43,6 +87,12 @@ export var data = [
     "url": "https://github.com/JuliaLang/IJulia.jl",
     "path": "IJulia",
     "logo": "svg"
+  },
+  {
+    "name": "ipyparallel",
+    "description": "Interactive Parallel computing with IPython at your fingertips.\n",
+    "url": "https://ipyparallel.readthedocs.io",
+    "path": "ipyparallel"
   },
   {
     "commercial": false,
@@ -55,6 +105,12 @@ export var data = [
     "logo": "svg"
   },
   {
+    "name": "ipywidgets",
+    "descrition": "The Reference implementation for the Jupyter widgets using Python. Spice your code with interactive graph and UI elements in a couple of lines \n",
+    "url": "https://github.com/jupyter-widgets/ipywidgets/",
+    "path": "ipywidgets"
+  },
+  {
     "commercial": false,
     "description": "The R kernel is the perfect tool for statisticians looking to use the R from the comfort of a notebook.\n",
     "name": "IRKernel",
@@ -65,7 +121,8 @@ export var data = [
   {
     "commercial": false,
     "name": "IRuby",
-    "path": "IRuby"
+    "path": "IRuby",
+    "logo": "png"
   },
   {
     "commercial": false,
@@ -75,6 +132,14 @@ export var data = [
     "url": "https://github.com/mattpap/IScala",
     "path": "IScala",
     "logo": "svg"
+  },
+  {
+    "description": "A CoffeeScript Kernel for the Jupyter Notebook",
+    "license": "BSD",
+    "name": "jp-CoffeeScript",
+    "url": "https://github.com/n-riesco/jp-coffeescript",
+    "path": "jpcoffescript",
+    "logo": "png"
   },
   {
     "name": "Jupyter Console",
@@ -112,6 +177,12 @@ export var data = [
     "path": "nbdime"
   },
   {
+    "name": "NbFormat",
+    "url": "http://nbformat.readthedocs.io/",
+    "description": "Utility to read, write and validate `.ipynb` files.",
+    "path": "nbformat"
+  },
+  {
     "name": "nbgrader",
     "tags": "education",
     "description": "NbGrader provide tools to write, edit, distribute and grade assignments in the classroom context.\n",
@@ -141,6 +212,14 @@ export var data = [
     "logo": "png"
   },
   {
+    "description": "A Jupyter kernel for PARI/GP.",
+    "license": "GPLv3",
+    "name": "Pari GP",
+    "url": "https://github.com/jdemeyer/pari_jupyter",
+    "path": "parigp",
+    "logo": "png"
+  },
+  {
     "name": "QtConsole",
     "hidden": true,
     "description": "The QtConsole is one the first Jupyter remote client written and is based on the Qt Framework, it offers an experience similar to a terminal but with inline images.\n",
@@ -162,6 +241,19 @@ export var data = [
     "url": "https://marketplace.visualstudio.com/items?itemName=donjayamanne.jupyter",
     "path": "VSCode Jupyter",
     "logo": "png"
+  },
+  {
+    "name": "Xeus-Cling",
+    "url": "https://github.com/QuantStack/xeus-cling",
+    "description": "A C++ kernel for Jupyter. Ever dreamed of running interactive C++ with the ability to display images, play sounds and have interactive widgets ? Xeus-cling is for you\n",
+    "path": "xeus-cling",
+    "logo": "png"
+  },
+  {
+    "name": "Zero to Jupyterhub",
+    "description": "Guide on how to deploy JupyterHub in the cloud using Kubernetes and Helm chart. If you want to deploy you own Jupyter notebook in the cloud, this is the resource to follow and contribute to.\n",
+    "url": "https://zero-to-jupyterhub.readthedocs.io/",
+    "path": "z2jh"
   }
 ];
 

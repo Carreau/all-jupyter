@@ -35,8 +35,9 @@ class Board extends React.Component {
   handleChange(event){
     let term = event.target.value.toLowerCase();
     this.setState({elements:json.filter( (item) => 
-      (item.name.toLowerCase().search(term) !== -1)
-      ||((item.description||'').toLowerCase().search(term) !== -1)
+      (item.name.toLowerCase().indexOf(term) !== -1)
+      ||((item.description||'').toLowerCase().indexOf(term) !== -1)
+      ||((item.url||'').toLowerCase().indexOf(term) !== -1)
     
     
     )})
