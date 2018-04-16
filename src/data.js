@@ -183,11 +183,25 @@ export var data = [
     "path": "nbformat"
   },
   {
+    "description": "nbgallery is an enterprise Jupyter notebook sharing and collaboration app",
+    "license": "MIT",
+    "name": "nbgallery",
+    "url": "https://nbgallery.github.io/",
+    "path": "nbgallery"
+  },
+  {
     "name": "nbgrader",
     "tags": "education",
     "description": "NbGrader provide tools to write, edit, distribute and grade assignments in the classroom context.\n",
     "url": "https://github.com/jupyter/nbgrader",
     "path": "nbgrader"
+  },
+  {
+    "description": "Create interactive webpages from Jupyter Notebooks nbinteract.com",
+    "license": "BSD",
+    "name": "nbinteract",
+    "url": "https://github.com/SamLau95/nbinteract",
+    "path": "nbinteract"
   },
   {
     "description": "Render any publicly available notebook document or GitHub repository",
